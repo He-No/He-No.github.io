@@ -1,0 +1,14 @@
+---
+layout: post #Do not change.
+category: [Cybersecurity] #One, more categories or no at all.
+title: "LLMNR Poisoning" #Article title.
+author: BugZ #Author's nick.
+#nextPart: _posts/2021-01-30-example.md #Next part.
+#prevPart: _posts/2021-01-30-example.md #Previous part.
+---
+**Link Local Multicast Name Resolution (LLMNR) is still a finding to be found in the wild these days. It isn't even rare to find this protocol to be support. In my video below I explain what it is, how it can be abused, and how you can prevent yourself against these attacks.**
+
+Youtube video:
+<div markdown=1 class="sx-center">
+[![LLMNR Poisoning](https://img.youtube.com/vi/tRl8hgJaBcY/0.jpg)](https://www.youtube.com/watch?v=tRl8hgJaBcY)
+</div>

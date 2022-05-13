@@ -1,0 +1,12 @@
+- title: Cybersecurity #Menu item title.
+  url: category/cybersecurity.html #Menu item url.
+  icon: assets/img/icons/cyber-security.png #Menu item icon.
+  hue: "var(--c-themeSecondaryLight)" #Menu item hue - see note [1].
+- title: Esport
+  url: category/esport.html
+  icon: assets/img/icons/esport.png
+  hue: "var(--c-themeSecondaryLight)" #Menu item hue - see note [1].
+- title: Whoami
+  url: about/
+  icon: assets/img/icons/hacker.png
+  hue: "var(--c-themeSecondaryLight)" #Menu item hue - see note [1].
